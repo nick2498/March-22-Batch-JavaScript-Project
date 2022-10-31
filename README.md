@@ -32,4 +32,4 @@ I always have trouble figuring out how much to tip when I eat out. I therefore m
 
 ## Website Preview🖥️
 
-![Alt](https://github.com/nick2498/Tip-Calculator/blob/main/src/images/screenshot/Project_Screenshot.png)
+![Alt](https://github.com/nick2498/March-22-Batch-JavaScript-Project/blob/master/src/images/screenshot/Project_Screenshot.png)
